@@ -1,0 +1,59 @@
+
+.card-body{
+    
+    padding-top:10%;
+}
+.card-body h1{
+    text-align: center;
+    color:#8685f0;
+    text-shadow: 2px 2px 4px black;
+}
+.formtodo{
+    display:flex;
+    justify-content: center;
+}
+
+.card-body form input[type=text]{
+    width:20%;
+    
+}
+.card-body input[type=submit]{
+    width:5%;
+}
+.deladd{
+    margin-left:400px;
+    margin-right: 400px;
+}
+.deladd label button{
+    background-color:transparent;
+    border:none;
+    border-radius: 10px;
+    align-items: center;
+    font-size:25px;
+    float:right;
+    color:red;
+}
+.deladd label{
+    width:100%;
+}
+.deladd .tops{
+    width:100%;
+    float:left;
+}
+
+
+.deladd input[type=checkbox]:checked + label.strikethrough{
+    text-decoration: line-through;
+  }
+.formtodo input[type=text]{
+        margin:14px;
+  }
+.formtodo input[type=submit]{
+    background-color: #8685f0;
+    border:none;
+    margin:14px;
+ 
+    font-size: 19px;
+
+    box-shadow: 2px 2px 4px black;
+}

@@ -1,0 +1,101 @@
+.container{
+    position: fixed;
+    top:0; left:0; right:0;
+    background: white;
+    padding:1rem 7%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 1000;
+    box-shadow: var(--box-shadow);
+}
+.container2{
+    position: fixed;
+    top:0; left:0; right:0;
+    background: white;
+    padding:1rem 7%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 1000;
+    box-shadow: var(--box-shadow);
+
+}
+
+.FormContainer{
+
+    width: 45%;
+    display:flex;
+    justify-content: center;
+}
+.FormContainer2{
+    width:40%;
+}
+.form{
+    background-color: #fff;
+    border: 1px solid #764ba2;
+    border-radius: 20px;
+    margin-top: 5%;
+    padding: 35px;
+    width: 100%;
+}
+.form2{
+    background-color: #fff;
+    border: 1px solid #764ba2;
+    border-radius: 20px;
+    padding:20px;
+    width: 100%;
+}
+.form2 input[type=email], input[type=text],input[type=date], input[type=password] {
+    background-color: #f6f6f6;
+    border: 2px solid #f6f6f6;
+    border-radius: 8px;
+    color: #0d0d0d;
+    display: flex;
+    font-size: 16px;
+    margin: 5px;
+    padding: 12px 32px;
+    text-align: center;
+    text-decoration: none;
+    transition: all .5s ease-in-out;
+    width: 80%;
+}
+.form input[type=email], input[type=text],input[type=date], input[type=password] {
+    background-color: #f6f6f6;
+    border: 2px solid #f6f6f6;
+    border-radius: 8px;
+    color: #0d0d0d;
+    display: flex;
+    font-size: 16px;
+    margin: 5px;
+    padding: 12px 32px;
+    text-align: center;
+    text-decoration: none;
+    transition: all .5s ease-in-out;
+    width: 80%;
+}
+.form input[type=button], input[type=reset], input[type=submit] {
+    background-color: #9722bb;
+    border: 1px solid #9722bb;
+    border-radius: 5px 5px 5px 5px;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 13px;
+    margin: 3px 20px 40px;
+    padding: 12px 60px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: all .3s ease-in-out;
+}
+.form a{
+    text-decoration: none;
+    color:black;
+    cursor: pointer;
+}
+.form2 a{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
