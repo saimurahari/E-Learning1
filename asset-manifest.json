@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15ff3216.css",
+    "main.js": "/static/js/main.8a1aca99.js",
+    "static/js/787.acc2f775.chunk.js": "/static/js/787.acc2f775.chunk.js",
+    "static/media/Wavy_Gen-01_Single-07.jpg": "/static/media/Wavy_Gen-01_Single-07.682f79e4bfc76926b4f4.jpg",
+    "static/media/Mobile-login-Cristina.jpg": "/static/media/Mobile-login-Cristina.062b2fa24f9fb13c324c.jpg",
+    "static/media/4804443.jpg": "/static/media/4804443.6b9a333248372930c157.jpg",
+    "static/media/dsa.png": "/static/media/dsa.fbf8bafb4c7b2b7c9c7c.png",
+    "static/media/python-modified.png": "/static/media/python-modified.097af5da57bcb0538ec5.png",
+    "static/media/htmlcss.png": "/static/media/htmlcss.604178d1a59ce70d82fe.png",
+    "static/media/java.jpg": "/static/media/java.0f7d0df6522790f5316e.jpg",
+    "static/media/react.png": "/static/media/react.784970096a21d7e3c1ce.png",
+    "static/media/node-modified.png": "/static/media/node-modified.1e45db49a0075e9c7cfa.png",
+    "static/media/mongodb-modified.png": "/static/media/mongodb-modified.a32809a198de1f478ab5.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.15ff3216.css.map": "/static/css/main.15ff3216.css.map",
+    "main.8a1aca99.js.map": "/static/js/main.8a1aca99.js.map",
+    "787.acc2f775.chunk.js.map": "/static/js/787.acc2f775.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15ff3216.css",
+    "static/js/main.8a1aca99.js"
+  ]
+}
